@@ -1,0 +1,12 @@
+E:\Ha-Mim\TicketApplication\TicketApplication\bin\Debug\TicketApplication.exe.config
+E:\Ha-Mim\TicketApplication\TicketApplication\obj\Debug\TicketApplication.csprojResolveAssemblyReference.cache
+E:\Ha-Mim\TicketApplication\TicketApplication\obj\Debug\TicketApplication.Form1.resources
+E:\Ha-Mim\TicketApplication\TicketApplication\obj\Debug\TicketApplication.Properties.Resources.resources
+E:\Ha-Mim\TicketApplication\TicketApplication\obj\Debug\TicketApplication.csproj.GenerateResource.Cache
+E:\Ha-Mim\TicketApplication\TicketApplication\bin\Debug\TicketApplication.exe
+E:\Ha-Mim\TicketApplication\TicketApplication\bin\Debug\TicketApplication.pdb
+E:\Ha-Mim\TicketApplication\TicketApplication\obj\Debug\TicketApplication.exe
+E:\Ha-Mim\TicketApplication\TicketApplication\obj\Debug\TicketApplication.pdb
+C:\Users\bcc\Desktop\12.12.14\TicketApplication\TicketApplication\bin\Debug\TicketApplication.exe.config
+C:\Users\bcc\Desktop\12.12.14\TicketApplication\TicketApplication\obj\Debug\TicketApplication.exe
+C:\Users\bcc\Desktop\12.12.14\TicketApplication\TicketApplication\obj\Debug\TicketApplication.pdb

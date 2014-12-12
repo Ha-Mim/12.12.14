@@ -1,0 +1,8 @@
+E:\Ha-Mim\NameApp\NameApp\bin\Debug\NameApp.exe.config
+E:\Ha-Mim\NameApp\NameApp\bin\Debug\NameApp.exe
+E:\Ha-Mim\NameApp\NameApp\bin\Debug\NameApp.pdb
+E:\Ha-Mim\NameApp\NameApp\obj\Debug\NameApp.Form1.resources
+E:\Ha-Mim\NameApp\NameApp\obj\Debug\NameApp.Properties.Resources.resources
+E:\Ha-Mim\NameApp\NameApp\obj\Debug\NameApp.csproj.GenerateResource.Cache
+E:\Ha-Mim\NameApp\NameApp\obj\Debug\NameApp.exe
+E:\Ha-Mim\NameApp\NameApp\obj\Debug\NameApp.pdb
